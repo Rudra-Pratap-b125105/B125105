@@ -1,3 +1,15 @@
+/*
+1. Car Information System
+Create a class named Car to store the details of a car. The class should contain the following
+data members:
+• Car Number
+• Brand Name
+• Model Year
+Write suitable member functions to:
+1. Accept the car details from the user.
+2. Display the entered details in a formatted manner.
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
