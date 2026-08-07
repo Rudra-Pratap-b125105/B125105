@@ -1,3 +1,12 @@
+/*
+2. Square Calculator
+Create a class named Square that stores the side of a square. Write member functions to:
+1. Read the side length.
+2. Calculate the area.
+3. Calculate the perimeter.
+4. Display the results.
+*/
+
 #include <iostream>
 using namespace std;
 
